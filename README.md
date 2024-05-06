@@ -1,4 +1,4 @@
-# @Solid-Plus
+# @SolidJS-Plus
 
 Welcome! This repository contains community health files for the @solid-plus organization.
 

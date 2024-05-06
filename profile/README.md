@@ -1,5 +1,5 @@
-# Welcome to the @Solid-Plus community
+# Welcome to the @SolidJS-Plus community
 
-![@Solid-Plus banner](/assets/banner.svg)
+![@SolidJS-Plus banner](/assets/banner.svg)
 
-**@Solid-Plus** provides useful tools and enhancement for **SolidJS**
+### **@SolidJS-Plus** provides useful enhancement and tools for **SolidJS**
